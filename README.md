@@ -1,7 +1,5 @@
 # CODSOFT_Task1
 
-It seems like you have a Python script that creates a basic to-do list application using tkinter. To create a README file for this code, you can follow a similar template as before. Here's a README file customized for your to-do list application:
-
 # To-Do List Application
 
 A simple to-do list application created using Python's tkinter library.
@@ -80,4 +78,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 - This project was created using the tkinter library for the GUI.
 
-Feel free to customize this README to include any additional information or details about your To-Do List Application. It will help others understand and use your application more effectively.
