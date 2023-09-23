@@ -48,7 +48,7 @@ git clone https://github.com/JeyashithanRaaj/CODSOFT_Task1.git
 2. Navigate to the project directory.
 
 ```bash
-cd todo-list-app
+cd ToDo
 ```
 
 3. Run the application.
